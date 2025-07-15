@@ -21,7 +21,9 @@ A modern, responsive Tic Tac Toe game built with **React** and **Tailwind CSS**,
 ## 🔗 Live Demo
 
 Check out the live version of the game here:  
-[🟢 Thinktactoe](https://thinktactoe.netlify.app/)
+<a href="https://thinktactoe.netlify.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" />
+</a>
 
 ---
 
